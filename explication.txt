@@ -1,0 +1,16 @@
+// J'explique mon traville ici 
+
+J'ai travailler 3 fois sur le site je pense. Ce qui veut dire que ça 
+m'as ppris du temps.
+
+J'ai utiliser deux choses que je nr t'ai pas appris :
+1- Le Javascript pour écrire ma fonction pour le slider ( Défilement des images)
+2- L'API https://ionic.io/ionicons pour des icônes.
+
+Tout ce qui reste est vu dans la formation !!.
+Regarde correctement mon code, cherche à comprendre des choses que tu ne comprends pas.
+
+
+Je précise encore :
+il me reste deux vidéos à faire:
+Une sur les API et l'autre sur l'hébergement d'un site.
